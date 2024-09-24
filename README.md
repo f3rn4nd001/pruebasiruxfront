@@ -29,7 +29,7 @@ Configuración del Archivo environment En el archivo environment.ts, actualiza l
 
  Ejecución del Proyecto Angular Para levantar el proyecto Angular, ejecuta: ng serve --host 0.0.0.0
 
-Vistas del Proyecto:
+Vistas del Proyecto:(envio de datos encriptados, ocupas de token para entrar a cada vista)
 Login
 Catalogo
 Crear/Editar usuario
